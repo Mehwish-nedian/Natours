@@ -959,6 +959,10 @@ body {
   @media only screen and (max-width: 56.25em) {
     .section-features {
       padding: 10rem 5rem; } }
+  @media only screen and (max-width: 37.5em)
+  html {
+      font-size: 37%;
+  }
   .section-features > * {
     transform: skewY(7deg); }
 
