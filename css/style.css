@@ -958,8 +958,7 @@ body {
   transform: skewY(-7deg); }
   @media only screen and (max-width: 56.25em) {
     .section-features {
-      width: 60rem;
-      padding: 10rem 15rem; } }
+      padding: 10rem 5rem; } }
   .section-features > * {
     transform: skewY(7deg); }
 
